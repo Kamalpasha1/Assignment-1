@@ -105,3 +105,111 @@ main{
     margin-top: 45px;
 
 }
+/* news style */
+.news-type{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+}
+.news-description{
+    color: rgba(14, 14, 14, 0.7);
+}
+.news-title{
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+}
+.news-container{
+   display: flex;
+   gap: 32px;
+   background-color: rgba(255, 255, 255, 1);
+   border-radius: 24px;
+}
+
+.news-pic{
+    width: 408px;
+    height: 306px;
+    border-radius: 24px;
+    
+}
+.time{
+    color: rgba(14, 14, 14, 0.7);
+    display: flex;
+    gap: 12px;
+}
+.p-descrip{
+    color: rgba(14, 14, 14, 0.7);
+}
+.n-btn{
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 106, 80, 1);
+    border-radius: 8px;
+    padding: 13px 26px;
+}
+.donate-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+    text-align: center;
+}
+.donate-description{
+    color: rgba(14, 14, 14, 0.7);
+}
+.taka{
+    /* width: 240px; */
+    /* height: 128px; */
+    display: flex;
+    /* gap: 24px; */
+    /* justify-content: space-around; */
+    /* margin-top: 32px; */
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    padding: 40px;
+
+}
+.amount{
+    width: 100%;
+}
+
+.done{
+
+    font-size: 16px;
+    font-weight: 500;
+    padding: 17px 30px;
+    margin: 0px 600px 0px 600px;
+    background-color: aqua;
+}
+.tk{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    padding: 40px;
+    border-radius: 16px;
+
+}
+.tk-1{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    padding: 40px;
+    border-radius: 16px;
+    background-color: rgba(198, 228, 214, 1);
+    margin: 24px;
+}
+.tk-2{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    padding: 40px;
+    border-radius: 16px;
+    
+}
+.tk-3{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    padding: 40px;
+    border-radius: 16px;
+    margin: 24px;
+}
