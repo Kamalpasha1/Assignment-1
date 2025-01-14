@@ -26,11 +26,13 @@
     font-size: 26px;
     font-weight: 500;
     color: rgba(14, 14, 14, 0.5);
+    margin-bottom: 5px;
 }
 .banner-title{
     font-size: 56px;
     font-weight: bold;
     color: rgba(14, 14, 14, 1);
+    margin-top: 0px;
 }
 .btn{
     font-size: 18px;
